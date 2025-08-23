@@ -6,7 +6,7 @@ This project applies statistical analysis, data visualization, and machine learn
 ⚙️**Features**
 **EDA (Exploratory Data Analysis):**
 
--Symptom vs severity gap analysis
+- Symptom vs severity gap analysis
 
 -Multi-disease risk detection (kidney, diabetes + heart severity)
 
