@@ -57,6 +57,7 @@ num → Severity level of heart disease
 Mortality → Survival status
 
 🛠️**Tech Stack**
+
 🔹 **Data Handling**
 
 dplyr, tidyr, readr, stringr – data cleaning, transformation, and manipulation
