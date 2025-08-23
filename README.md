@@ -8,41 +8,41 @@ This project applies statistical analysis, data visualization, and machine learn
 
 - Symptom vs severity gap analysis
 
--Multi-disease risk detection (kidney, diabetes + heart severity)
+- Multi-disease risk detection (kidney, diabetes + heart severity)
 
--Gender & age-specific risk factors
+- Gender & age-specific risk factors
 
--Blood & biochemical markers impact
+- Blood & biochemical markers impact
 
 **Statistical Tests:**
 
--Normality (Shapiro-Wilk)
+- Normality (Shapiro-Wilk)
 
--Chi-square tests for lifestyle factors
+- Chi-square tests for lifestyle factors
 
--Kruskal-Wallis for age vs severity
+- Kruskal-Wallis for age vs severity
 
--ECG & stress test indicators
+- ECG & stress test indicators
 
 **Machine Learning Models:**
 
--Random Forest severity prediction
+- Random Forest severity prediction
 
--Logistic Regression mortality prediction
+- Logistic Regression mortality prediction
 
--Clustering of patients into risk groups
+- Clustering of patients into risk groups
 
 **Policy Recommendations:**
 
--Symptom-based risk awareness
+- Symptom-based risk awareness
 
--Multi-disease screening integration
+- Multi-disease screening integration
 
--Special focus on middle-aged females
+- Special focus on middle-aged females
 
--Triage-based risk stratification
+- Triage-based risk stratification
 
--Gender-sensitive healthcare strategies
+- Gender-sensitive healthcare strategies
 
 📊 **Dataset**
 
@@ -52,9 +52,9 @@ This project applies statistical analysis, data visualization, and machine learn
 
 **Target Variables:**
 
--num → Severity level of heart disease
+- num → Severity level of heart disease
 
--Mortality → Survival status
+- Mortality → Survival status
 
 🛠️**Tech Stack**
 
@@ -92,8 +92,8 @@ shiny, shinydashboard – interactive user interface for model insights
 
 📌 **Future Work**
 
--Deployment on Shiny Server / RStudio Connect for public access
+- Deployment on Shiny Server / RStudio Connect for public access
 
--Integration with real-time hospital data
+- Integration with real-time hospital data
 
--Expand dataset with longitudinal follow-up records
+- Expand dataset with longitudinal follow-up records
