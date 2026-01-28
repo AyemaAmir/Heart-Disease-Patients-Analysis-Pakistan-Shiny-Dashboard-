@@ -1,4 +1,4 @@
-# Heart Disease Patients Analysis-Pakistan
+#  Advanced Statistical Analysis of Heart Disease Patients-Pakistan
 📌 **Overview**
 
 This project applies statistical analysis, data visualization, and machine learning techniques to the Heart Disease Dataset to identify key risk factors and predict the likelihood of heart disease. It combines data preprocessing, exploratory data analysis (EDA), predictive modeling, and clustering with a user-friendly Shiny dashboard for interactive insights.
