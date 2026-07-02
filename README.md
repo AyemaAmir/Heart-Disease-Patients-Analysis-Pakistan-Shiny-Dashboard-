@@ -17,11 +17,11 @@
 
 # 🩺 Problem
 
-Cardiovascular disease is the leading cause of death globally, claiming roughly 17.9 million lives annually (WHO). In Pakistan, the burden is compounded by late-stage diagnosis, poor symptom awareness among frontline workers, and a lack of structured risk screening tools — patients typically present to hospitals only after symptoms become severe.
+Cardiovascular disease is the leading cause of death globally, claiming roughly 17.9 million lives annually (WHO). In Pakistan, the burden is compounded by late-stage diagnosis, poor symptom awareness among frontline workers, and a lack of structured risk screening tools, patients typically present to hospitals only after symptoms become severe.
 
 Existing predictive models for heart disease risk are overwhelmingly built on Western clinical datasets such as the Cleveland dataset, which do not reflect Pakistani patient demographics, comorbidity profiles, or healthcare patterns.
 
-This project addresses that gap directly. I sourced a real-world clinical dataset of heart disease patients from Pakistan — containing several hundred records and over 60 variables across demographics, lifestyle factors, biochemical markers, cardiac diagnostics, and outcomes — and built a full analytics pipeline from raw, inconsistent data through to an interactive clinical decision support dashboard.
+This project addresses that gap directly. I sourced a real-world clinical dataset of heart disease patients from Pakistan — containing several hundred records and over 60 variables across demographics, lifestyle factors, biochemical markers, cardiac diagnostics, and outcomes and built a full analytics pipeline from raw, inconsistent data through to an interactive clinical decision support dashboard.
 
 **The core deliverable is not a model. It is an actionable system that tells a clinician or health policymaker: who is at risk, how severe that risk is, why it exists, and what to do about it.**
 
