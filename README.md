@@ -163,3 +163,14 @@ All analyses are presented through an interactive **R Shiny Dashboard**, allowin
 <img width="1219" height="583" alt="image" src="https://github.com/user-attachments/assets/2d5e777a-5045-464b-9e8f-f005e7b19211" />
 
 <img width="1116" height="550" alt="image" src="https://github.com/user-attachments/assets/c22f2e38-faa0-4267-90c4-38bf84fd9dca" />
+
+**Author:** Ayema Amir
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayema-amir-537b2a320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AyemaAmir">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+Open to freelance projects in healthcare analytics, data science, statistical modeling, and R Shiny dashboard development.
