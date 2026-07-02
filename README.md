@@ -155,6 +155,24 @@ All analyses are presented through an interactive **R Shiny Dashboard**, allowin
 
 ---
 
+# 💡 Key Findings
+
+- **Identified a symptom–severity gap**, where isolated chest pain was frequently associated with severe disease despite limited accompanying symptoms.
+
+- **Discovered that diabetes and kidney dysfunction contributed to over 30% of high-severity cases**, highlighting the importance of integrated comorbidity screening.
+
+- **Profiled middle-aged women (45–59) as an under-recognized high-risk population**, with elevated cardiovascular risk despite largely normal renal markers.
+
+- **Revealed complementary roles of biochemical markers**, showing serum creatinine increased with disease severity while CK-MB exhibited an inverse trend.
+
+- **Ranked the most influential predictors of disease severity** using Random Forest, with *thalach*, *oldpeak*, age, platelet count, WBC, and neutrophils emerging as the strongest features.
+
+- **Developed an interpretable mortality prediction model**, identifying age, gender, exercise-induced angina, ST depression, and cholesterol as the most significant predictors.
+
+- **Segmented patients into Low-, Moderate-, and High-Risk groups** using K-Means clustering to support risk stratification and clinical prioritization.
+
+- **Demonstrated that regular follow-up was associated with improved patient survival**, reinforcing the value of post-discharge monitoring.
+
 
 <img width="1176" height="560" alt="image" src="https://github.com/user-attachments/assets/1a98ea49-a7b6-4c47-9b00-d4cb92fa87da" />
 
