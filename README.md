@@ -1,4 +1,4 @@
-# 🫀 Healthcare Analytics Solution: Heart Disease Risk Prediction & Clinical Decision Dashboard
+# Healthcare Analytics Solution: Heart Disease Risk Prediction & Clinical Decision Dashboard
 
 > **End-to-End Clinical Data Pipeline · Statistical Analysis · Machine Learning · Interactive R Shiny Dashboard**
 
